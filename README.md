@@ -1,2 +1,2 @@
-# oibsib_03
+# oibsip_03
 Sales Prediction using Python
